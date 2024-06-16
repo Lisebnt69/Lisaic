@@ -12,7 +12,7 @@ export default LinkButton;
 
 const Bouton = styled.button`color: white;
 display: block;
-background-color: #232731;
+background-color: gray;
 width: 90%;
 margin:40px;
 margin-left:10px;
